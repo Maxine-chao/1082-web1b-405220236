@@ -16,7 +16,7 @@ body {
 #container {
   width: 90%;
   border: 2px solid purple;
-  margin: 20px auto;
+  margin: 150px auto;
 }
 
 #heading {
@@ -72,6 +72,16 @@ body {
 #main ul a:hover {
   background-color: crimson;
 }
+
+
+#main a{
+  padding: 5px;
+  background-color: aquamarine;
+}
+
+
+
+
 
 aside {
   width: 20%;
